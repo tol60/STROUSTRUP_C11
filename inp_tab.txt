@@ -1,0 +1,2 @@
+a	b(a tab b)
+end of file

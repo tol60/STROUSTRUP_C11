@@ -1,0 +1,12 @@
+This is a Sample Test file that should contain UPPER CASE Letters.
+Pass it to a program that converts it to a lower CASE.
+
+Right before there was ONE empty line
+
+
+Right before the were TWO empty lines.
+		
+The line before contained two tabs
+		two tabs before
+   There were three spaces before the line started.
+DID it WORK?

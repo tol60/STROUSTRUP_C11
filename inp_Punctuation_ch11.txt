@@ -1,0 +1,29 @@
+This text is supposed to demonstrate punctuation:
+	This line starts with the tab and ends with a dot.
+ * Consider . (dot), ; (semicolon), , (comma), ? (question mark), - (dash), ' (single quote) punctuation characters
+ * Don't modify characters within a pair of double quotes.
+ * Example:
+ *   "- don't use the as-if rule."
+ *   Becomes:
+ *   "  don t use the as if rule "
+Let us what the actual program returned on that line:
+- don't use the as-if rule.
+
+(The previous line was an empty line. This line is surrounded in brackets).
+"- don't use the as-if rule." - this one has two double quotes 
+"- don't use the "as-if rule." - this one has three double quote
+" (starts with the double quote)
+
+Extra examples to test as-if rule:
+-if (this line starts with hyphen if)
+ -if (this line starts with space hypen if)
+	-if (this line starts with tab, hyphen if)
+this line ends with if hyphen  if-
+as space hyphen space if as - if
+
+        // I won't allow it == I will not.
+        // I wouldn't allow it == I would not
+        // I can't allow it == I can not
+        // I don't allow it == I do not
+
+He won't allow it. He would give you the money, but he wouldn't tolerate any disrespect. I can't allow it either. I don't like you. 
